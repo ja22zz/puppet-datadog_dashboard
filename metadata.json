@@ -1,0 +1,15 @@
+{
+  "name": "ja22zz-datadog_dashboard",
+  "version": "0.0.1",
+  "author": "ja22zz",
+  "summary": "Manages Datadog Dashboards (datadoghq.com)",
+  "license": "Apache-2.0",
+  "source": "https://github.com/ja22zz/puppet-datadog_dashboard",
+  "project_page": "https://github.com/ja22zz/puppet-datadog_dashboard",
+  "issues_url": "https://github.com/ja22zz/puppet-datadog_dashboard/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
